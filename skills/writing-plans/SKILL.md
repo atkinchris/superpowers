@@ -53,9 +53,11 @@ This structure informs the task decomposition. Each task should produce self-con
 
 **Goal:** [One sentence describing what this builds]
 
-**Architecture:** [2-3 sentences about approach]
+**Architecture:** [2-3 sentences about approach — this is the canonical record of the design, no separate spec file]
 
 **Tech Stack:** [Key technologies/libraries]
+
+**Design decisions:** [Key choices made during brainstorming and the reasoning behind them]
 
 ---
 ```
